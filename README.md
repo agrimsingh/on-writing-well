@@ -26,7 +26,7 @@ The agent reads `SKILL.md` first and opens the other files only when it needs th
 **For all your projects** (user-level):
 
 ```bash
-git clone https://github.com/<your-username>/on-writing-well.git
+git clone https://github.com/agrimsingh/on-writing-well.git
 mkdir -p ~/.cursor/skills
 cp -r on-writing-well/skills/writing-well ~/.cursor/skills/
 ```
