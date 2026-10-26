@@ -1,0 +1,13 @@
+# Source material and local files
+uploads/
+*.pdf
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment and editor
+.env
+.env.*
+.DS_Store
